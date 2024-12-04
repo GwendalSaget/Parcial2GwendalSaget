@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "139351000851",
+    "firebase_url": "https://parcial2-28be3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "parcial2-28be3",
+    "storage_bucket": "parcial2-28be3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139351000851:android:86a465cae5234dd82ffce6",
+        "android_client_info": {
+          "package_name": "com.example.parcial2gwendalsaget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtEwpsUHJuM28mOdbXAUZeyPj1B8rFM4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
